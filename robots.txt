@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nhcottier.github.io/aurora-heads-up/sitemap.xml
